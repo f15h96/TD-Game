@@ -12,7 +12,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Node.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MCTS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DecisionEnum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawn.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCopy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TowerFire.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/tree.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -23,6 +26,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MCTS.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Node.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/tree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCopy.cs" />
       </list>
     </option>
@@ -79,6 +84,8 @@
       <workItem from="1605610391954" duration="3504000" />
       <workItem from="1606046981699" duration="2254000" />
       <workItem from="1606150036235" duration="1167000" />
+      <workItem from="1607166987061" duration="2552000" />
+      <workItem from="1607340032690" duration="2247000" />
     </task>
     <servers />
   </component>

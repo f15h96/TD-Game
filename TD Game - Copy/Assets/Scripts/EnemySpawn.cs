@@ -38,6 +38,7 @@ public class EnemySpawn : MonoBehaviour
         StartWaveButton.gameObject.SetActive(false);
         WaveNo++;
         Currency = 10 + WaveNo;
+        
     }
     
     public void SpawnS()

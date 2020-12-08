@@ -56,8 +56,11 @@ public class Manager : MonoBehaviour
 
     public void StartWave()
     {
+        gameObject.GetComponent<GameCopy>().StartBoard();
        spawn.StartWave();
     }
+    
+    
     public void AOE()
     {
         towerBase = HighlghtedGameObject.GetComponent<TowerBase>();
